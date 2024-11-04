@@ -1,8 +1,12 @@
 This is the first feature of our application
 	:wq
+<<<<<<< HEAD
 This is the bug fix in DEVELOPMENT Branch
 
 I am bad boy
 
 
 This features is fine 
+=======
+
+>>>>>>> parent of 92e759f (Added bug fix line)
